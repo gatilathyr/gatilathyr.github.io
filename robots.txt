@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gatilathyr.github.io/sitemap.html.gz
+Sitemap: https://gatilathyr.github.io/app/sitemap.html.gz
+Sitemap: https://gatilathyr.github.io/assets/sitemap.html.gz
+Sitemap: https://gatilathyr.github.io/css/sitemap.html.gz
+Sitemap: https://gatilathyr.github.io/includes/sitemap.html.gz
+Sitemap: https://gatilathyr.github.io/item/sitemap.html.gz
+Sitemap: https://gatilathyr.github.io/src/sitemap.html.gz
